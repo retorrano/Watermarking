@@ -1,0 +1,5 @@
+E:\Porns\WM\WM\bin\Release\net6.0-windows\publish\WM.exe
+E:\Porns\WM\WM\bin\Release\net6.0-windows\publish\WM.dll
+E:\Porns\WM\WM\bin\Release\net6.0-windows\publish\WM.deps.json
+E:\Porns\WM\WM\bin\Release\net6.0-windows\publish\WM.runtimeconfig.json
+E:\Porns\WM\WM\bin\Release\net6.0-windows\publish\WM.pdb

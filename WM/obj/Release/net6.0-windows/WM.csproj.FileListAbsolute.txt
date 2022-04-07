@@ -1,0 +1,17 @@
+E:\Porns\WM\WM\bin\Release\net6.0-windows\WM.exe
+E:\Porns\WM\WM\bin\Release\net6.0-windows\WM.deps.json
+E:\Porns\WM\WM\bin\Release\net6.0-windows\WM.runtimeconfig.json
+E:\Porns\WM\WM\bin\Release\net6.0-windows\WM.dll
+E:\Porns\WM\WM\bin\Release\net6.0-windows\WM.pdb
+E:\Porns\WM\WM\obj\Release\net6.0-windows\WM.csproj.AssemblyReference.cache
+E:\Porns\WM\WM\obj\Release\net6.0-windows\WM.Form1.resources
+E:\Porns\WM\WM\obj\Release\net6.0-windows\WM.csproj.GenerateResource.cache
+E:\Porns\WM\WM\obj\Release\net6.0-windows\WM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Porns\WM\WM\obj\Release\net6.0-windows\WM.AssemblyInfoInputs.cache
+E:\Porns\WM\WM\obj\Release\net6.0-windows\WM.AssemblyInfo.cs
+E:\Porns\WM\WM\obj\Release\net6.0-windows\WM.csproj.CoreCompileInputs.cache
+E:\Porns\WM\WM\obj\Release\net6.0-windows\WM.dll
+E:\Porns\WM\WM\obj\Release\net6.0-windows\refint\WM.dll
+E:\Porns\WM\WM\obj\Release\net6.0-windows\WM.pdb
+E:\Porns\WM\WM\obj\Release\net6.0-windows\WM.genruntimeconfig.cache
+E:\Porns\WM\WM\obj\Release\net6.0-windows\ref\WM.dll
